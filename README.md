@@ -2,7 +2,9 @@
 - 👀 I’m interested in Data Scince and AI
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+www.linkedin.com/in/amal-eltelbany-7a5470204
+
 
 <!---
 AmalEltelbany/AmalEltelbany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
