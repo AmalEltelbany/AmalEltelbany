@@ -74,10 +74,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalEltelbany&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
----
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmalEltelbany&count_bg=%237A7A7A&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
-</p>
 
 
 <!-- Proudly built with ❤️ by Amal -->
