@@ -18,7 +18,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/AmalEltelbany" target="_blank">
+  <a href="https://www.linkedin.com/in/amal-eltelbany-7a5470204/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/amaal_1_2" target="_blank">
