@@ -24,7 +24,7 @@
   <a href="https://x.com/amaal_1_2" target="_blank">
     <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
-  <a href="https://amalonchain.hashnode.dev" target="_blank">
+  <a href="https://hashnode.com/@amalonchain" target="_blank">
     <img src="https://img.shields.io/badge/Blog-%23FFA500.svg?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
 </p>
