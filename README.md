@@ -1,65 +1,57 @@
-<h1 align="center">Hi there 👋, I'm Amal Eltelbany</h1>
-<h3 align="center">Junior Web3 & Backend Developer | Rust on ICP</h3>
+# 👋 Hi, I'm Amal El-Telbany
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=I+build+Decentralized+Apps+%F0%9F%92%BB;Backend+Engineer+with+Rust+%26+TypeScript;Writing+clean%2C+scalable+code+%E2%9C%94%EF%B8%8F;Learning+Never+Stops+%F0%9F%8C%9F" alt="Typing SVG" />
-</p>
+🎯 **Frontend Developer | Software Engineer | React Enthusiast**
 
----
-
-## 💫 About Me:
-
-- 🧠 I'm a **Junior Web3 & Backend Developer** working with **Rust** on the **Internet Computer (ICP)** and modern backend stacks  
-- ⚙️ Passionate about building **secure, scalable APIs** and **decentralized applications**
-- ✍️ I enjoy learning, building side projects & soon blogging on Hashnode
+I’m passionate about building clean, responsive, and interactive web applications that merge great design with powerful functionality.  
+Currently working at **Mercatura Forum** as a **Frontend Developer**, building modern UIs and collaborating with backend teams to create seamless user experiences.
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amal-eltelbany-7a5470204/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/amaal_1_2" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-  </a>
-  <a href="https://hashnode.com/@amalonchain" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-%23FFA500.svg?style=for-the-badge&logo=hashnode&logoColor=white"/>
-  </a>
-</p>
+## 🚀 About Me
+- 💻 I specialize in **React.js**, **Next.js**, and **Tailwind CSS**.
+- 🔧 Experienced with **Node.js**, **Express.js**, and **Flask** for backend development.
+- 🧠 I love integrating **AI models** into real-world apps and exploring **IoT + AI** use cases.
+- 🌱 Currently improving my **full-stack** and **DevOps** skills.
+- 💬 I enjoy collaborating on open-source and real-world problem-solving projects.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 🔗 Blockchain & Smart Contracts
-<p>
-  <img src="https://img.shields.io/badge/Internet%20Computer-000000?style=for-the-badge&logo=internet-computer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+### 🖥️ Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <!-- Fixed Tailwind icon source -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" width="40" height="40" alt="TailwindCSS"/>
 </p>
 
-### 💻 Backend Development
-<p>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+### ⚙️ Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 </p>
 
-### 🧪 DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+### 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 </p>
 
-### 🎨 Side Skills
-<p>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+### 🧰 Tools & Others
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
 
 ---
@@ -74,6 +66,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalEltelbany&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
+---
 
+## 📫 Connect With Me
+🌍 [Portfolio (Coming Soon)]()  
+💼 [LinkedIn](https://www.linkedin.com/in/amal-eltelbany-7a5470204)  
+💻 [GitHub](https://github.com/AmalEltelbany)  
+✉️ [amal.eltelbany.2002@gmail.com](mailto:amal.eltelbany.2002@gmail.com)
+
+---
+
+⭐️ *"Building scalable and beautiful user experiences — one component at a time."*
 
 <!-- Proudly built with ❤️ by Amal -->
