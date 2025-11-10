@@ -2,8 +2,7 @@
 
 🎯 **Frontend Developer | Software Engineer | React Enthusiast**
 
-I’m passionate about building clean, responsive, and interactive web applications that merge great design with powerful functionality.  
-Currently working at **Mercatura Forum** as a **Frontend Developer**, building modern UIs and collaborating with backend teams to create seamless user experiences.
+I’m passionate about building clean, responsive, and interactive web applications that merge great design with powerful functionality, building modern UIs and collaborating with backend teams to create seamless user experiences.
 
 ---
 
