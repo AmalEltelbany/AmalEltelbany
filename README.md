@@ -26,7 +26,6 @@ Hey! I'm a **Full Stack Developer** from Cairo, Egypt 🇪🇬
 
 - 🦋 Building **scalable web applications**
 - 💜 Passionate about **clean code & great UX**
-- 🚀 Currently working at **Mercatura Forum**
 - 📚 Always exploring new technologies
 
 **My Stack:**
