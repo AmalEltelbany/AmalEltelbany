@@ -11,7 +11,7 @@
 <a href="https://portfolio-amaleltelbany.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/amal-eltelbany-7a5470204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:amal.eltelbany.2002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="./Amal_Eltelbany_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1p1ldP02ki9v-JoPHgqQ47AEVbFFF2LZW/view?usp=sharing"><img src="https://img.shields.io/badge/Download_CV-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 </div>
 
