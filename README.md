@@ -32,16 +32,37 @@ I'm a full-stack engineer who enjoys building backend systems that stay reliable
 <br clear="right"/>
 
 ```ts
-const amal = {
-  role: "Full-Stack Software Engineer",
-  location: "Cairo, Egypt",
-  currentlyAt: "Fincart",
-  backend: ["Node.js", "NestJS", "PostgreSQL", "MongoDB", "Redis", "BullMQ"],
-  frontend: ["React", "Next.js", "TypeScript", "Redux Toolkit", "TanStack Query"],
-  loves: ["clean architecture", "fast queries", "reliable systems", "great UX"],
-  learning: ["LLM agents", "RAG", "evals"],
-  openTo: "mid-level full-stack & backend roles",
-};
+type Role = { track: "frontend" | "backend" | "full-stack"; level: "junior" | "mid" | "senior" };
+
+class Amal implements Engineer {
+  readonly role = "Full-Stack Software Engineer";
+  readonly basedIn = "Cairo, Egypt";
+
+  stack = {
+    backend:  ["Node.js", "NestJS", "Express", "REST APIs"],
+    data:     ["PostgreSQL", "MongoDB", "Redis", "BullMQ"],
+    frontend: ["React", "Next.js", "TypeScript", "TanStack Query"],
+    tooling:  ["Docker", "GitHub Actions", "Vitest", "Playwright"],
+  };
+
+  principles = [
+    "Make it work, make it right, make it fast",
+    "Every retry should be safe",
+    "Measure before you optimize",
+  ];
+
+  learning(): string[] {
+    return ["LLM agents", "RAG", "evals"];
+  }
+
+  isOpenTo(role: Role): boolean {
+    return role.track !== "frontend" && role.level === "mid";
+  }
+
+  sayHi(): string {
+    return "Thanks for stopping by! Let's build something reliable.";
+  }
+}
 ```
 
 ---
