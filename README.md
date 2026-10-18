@@ -1,87 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amal%20El-Telbany&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+# Hi, I'm Amal 👋
 
-<div align="center">
+**Full-stack software engineer in Cairo, Egypt.** I build backend systems that stay correct at volume (batch jobs, queues, integrations, database performance) and the React products on top of them.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Full+Stack+Developer+%F0%9F%A6%8B;React+%7C+Next.js+%7C+TypeScript;Building+Beautiful+Experiences+%E2%9C%A8)](https://portfolio-amaleltelbany.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-amaleltelbany.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-eltelbany-7a5470204/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amal.eltelbany.2002@gmail.com)
+[![CV](https://img.shields.io/badge/Download_CV-22C55E?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./Amal_Eltelbany_CV.pdf)
 
-<br/>
+## What I'm doing now
 
-<a href="https://portfolio-amaleltelbany.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-A855F7?style=for-the-badge&labelColor=1a1a2e"/></a>
-<a href="https://www.linkedin.com/in/amal-eltelbany-7a5470204/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&labelColor=1a1a2e"/></a>
-<a href="mailto:amal.eltelbany.2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&labelColor=1a1a2e"/></a>
+- 💼 **Full-Stack Engineer at Fincart**: campaign processing, courier integrations, Shopify apps and merchant dashboards
+- 🤖 **Building an AI customer-support platform** (WhatsApp + web widget) to go deep on LLM agents, RAG and evals
+- 🎯 **Open to** mid-level full-stack and backend roles, Cairo or remote
 
-<br/>
+## Highlights from production
 
-<img src="https://komarev.com/ghpvc/?username=AmalEltelbany&color=A855F7&style=flat-square&label=Profile+Views"/>
+- **~500× fewer database calls** when building campaign audiences for merchants with 500k+ contacts (cursor-paged batch inserts, crash-safe re-runs) · NestJS, Prisma, PostgreSQL
+- **4,282 → 1 documents read** per order lookup after designing compound MongoDB indexes
+- **6 courier integrations, 1 gateway**: leading the migration of Aramex, Bosta, FedEx, J&T, Turbo and YFS onto a shared courier gateway
+- **One engine, two products**: a canvas-based automation builder (React Flow) with custom auto-layout, reused to launch Campaigns
+- **Server-trusted Shopify checkout**: customer data resolved on the server with session-token validation
 
-</div>
+## Featured projects
 
-<br/>
+| Project | What it shows | Stack |
+|---|---|---|
+| [**Resilient Event Gateway**](https://github.com/AmalEltelbany?tab=repositories) | Webhook ingestion on the transactional outbox pattern: HMAC verification, 4 idempotency layers, backoff retries, dead-letter queue. **p95 77ms, zero lost events at a 20% downstream failure rate.** | NestJS · MongoDB · Redis · BullMQ · Docker |
+| [**AI Support Platform**](https://github.com/AmalEltelbany/ai-support-platform) *(in progress)* | Multi-tenant AI customer support for WhatsApp and a web widget | Next.js · NestJS · Turborepo · LLMs |
+| **Sign Language Translator** | Graduation project (A+): two-way sign/text/speech translation, BiLSTM at 93.7% accuracy, real-time in video calls | Flask · TensorFlow |
 
-<img align="right" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+## Tech I use day to day
 
-### 👩‍💻 About Me
+[![Tech](https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,prisma,mongodb,redis,react,nextjs,redux,tailwind,docker,githubactions,vitest&perline=7)](https://skillicons.dev)
 
-Hey! I'm a **Full Stack Developer** from Cairo, Egypt 🇪🇬
+## Ask me about
 
-- 🦋 Building **scalable web applications**
-- 💜 Passionate about **clean code & great UX**
-- 📚 Always exploring new technologies
-
-**My Stack:**
-`React` `Next.js` `TypeScript` `Node.js` `Python` `PostgreSQL`
-
-<br clear="right"/>
-
----
-
-### 🛠️ Technologies
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
-
-</div>
-
----
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmalEltelbany&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff"/>
-
-<img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmalEltelbany&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff"/>
-
-</div>
-
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmalEltelbany&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true&height=300)](https://github.com/AmalEltelbany)
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Let's Build Something Amazing!
-
-<a href="https://portfolio-amaleltelbany.vercel.app/">
-<img src="https://img.shields.io/badge/🦋_Check_My_Portfolio-A855F7?style=for-the-badge"/>
-</a>
-
-<br/><br/>
-
-*"First, solve the problem. Then, write the code."* ✨
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+Idempotency and the outbox pattern · MongoDB and PostgreSQL indexing · batch processing at scale · React Flow · RTL (Arabic/English) UIs
