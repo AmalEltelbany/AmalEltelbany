@@ -44,57 +44,6 @@
 
 ---
 
-### 🚀 Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🛡️ Resilient Event Gateway
-Webhook ingestion on the **transactional outbox pattern**: HMAC verification, 4 idempotency layers, backoff retries and a dead-letter queue.
-
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-BullMQ%20%2B%20Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 [AI Support Platform](https://github.com/AmalEltelbany/ai-support-platform) <sub>*in progress*</sub>
-Multi-tenant AI customer support for **WhatsApp and a web widget**, with LLM agents, retrieval and evals.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
-![AI](https://img.shields.io/badge/-LLM%20Agents-A855F7?style=flat-square&logo=anthropic&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧩 Visual Automation Builder <sub>*at Fincart*</sub>
-Canvas-based flow builder with a **custom auto-layout algorithm** for branching flows, reused to launch a second product.
-
-![React](https://img.shields.io/badge/-React%20Flow-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤟 Sign Language Translator <sub>*graduation project, A+*</sub>
-Two-way sign, text and speech translation. **BiLSTM at 93.7% accuracy**, real-time in video calls.
-
-![Python](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
 ### 🛠️ Tech stack
 
 <div align="center">
