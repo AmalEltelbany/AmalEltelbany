@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://portfolio-amaleltelbany.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&height=55&lines=Backend+systems+that+stay+correct+at+scale+%E2%9A%99%EF%B8%8F;NestJS+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB+%E2%80%A2+React;Cut+DB+calls+~500%C3%97+for+500k%2B+contacts+%F0%9F%9A%80;Now+building+AI+support+agents+%F0%9F%A4%96" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&height=55&lines=Backend+systems+that+stay+correct+at+scale+%E2%9A%99%EF%B8%8F;NestJS+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB+%E2%80%A2+React;Clean+code+%E2%80%A2+Reliable+systems+%E2%80%A2+Great+UX+%E2%9C%A8;Learning+AI+engineering+%F0%9F%A4%96" alt="Typing intro"/>
 </a>
 
 <br/>
@@ -21,12 +21,12 @@
 
 ### 👩‍💻 About me
 
-I'm a full-stack engineer who enjoys the parts of a system nobody sees until they break: **the jobs, queues and queries that have to work at 500k+ records**. Then I make the UI on top of them feel simple.
+I'm a full-stack engineer who enjoys building backend systems that stay reliable under load, and clean, simple interfaces on top of them.
 
-- 💼 **Full-Stack Engineer @ Fincart**: I build campaigns, courier integrations, Shopify apps and merchant dashboards
-- ⚙️ **Backend at scale:** batch processing, idempotent retries, crash-safe jobs, MongoDB and PostgreSQL indexing
-- 🎨 **Frontend that ships:** React, a visual flow builder, a shared component library and Arabic/English **RTL** UIs
-- 🤖 **Learning in public:** building an AI customer-support agent (WhatsApp + web) with LLMs, RAG and evals
+- 💼 **Full-Stack Software Engineer @ Fincart**
+- ⚙️ **Backend:** Node.js, NestJS, REST APIs, background jobs, queues, database design and performance
+- 🎨 **Frontend:** React, Next.js and TypeScript, with a focus on clean UX and Arabic/English **RTL** support
+- 🌱 **Currently learning:** AI engineering, including LLM agents, RAG and evals
 - 🎯 **Open to** mid-level full-stack and backend roles, Cairo or remote
 
 <br clear="right"/>
@@ -38,7 +38,7 @@ const amal = {
   currentlyAt: "Fincart",
   backend: ["Node.js", "NestJS", "PostgreSQL", "MongoDB", "Redis", "BullMQ"],
   frontend: ["React", "Next.js", "TypeScript", "Redux Toolkit", "TanStack Query"],
-  loves: ["idempotency", "clean architecture", "fast queries", "RTL done right"],
+  loves: ["clean architecture", "fast queries", "reliable systems", "great UX"],
   learning: ["LLM agents", "RAG", "evals"],
   openTo: "mid-level full-stack & backend roles",
 };
