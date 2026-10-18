@@ -34,7 +34,7 @@ I'm a full-stack engineer who enjoys building backend systems that stay reliable
 ```ts
 const amal = {
   role: "Full-Stack Software Engineer",
-  location: "Cairo, Egypt 🇪🇬",
+  location: "Cairo, Egypt",
   currentlyAt: "Fincart",
   backend: ["Node.js", "NestJS", "PostgreSQL", "MongoDB", "Redis", "BullMQ"],
   frontend: ["React", "Next.js", "TypeScript", "Redux Toolkit", "TanStack Query"],
