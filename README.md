@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
+<img align="right" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Girl coding"/>
 
 ### 👩‍💻 About me
 
@@ -50,7 +50,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🛡️ [Resilient Event Gateway](https://github.com/AmalEltelbany?tab=repositories)
+#### 🛡️ Resilient Event Gateway
 Webhook ingestion on the **transactional outbox pattern**: HMAC verification, 4 idempotency layers, backoff retries and a dead-letter queue.
 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
