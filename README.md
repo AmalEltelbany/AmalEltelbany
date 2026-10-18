@@ -31,19 +31,6 @@
 
 ---
 
-### ⚡ Highlights from production
-
-<table>
-<tr>
-<td align="center" width="25%"><h2>~500×</h2><sub>fewer DB calls building audiences for <b>500k+ contacts</b></sub></td>
-<td align="center" width="25%"><h2>4,282 → 1</h2><sub>documents read per order lookup with <b>compound indexes</b></sub></td>
-<td align="center" width="25%"><h2>6 → 1</h2><sub>courier integrations unified into <b>one gateway</b></sub></td>
-<td align="center" width="25%"><h2>77 ms</h2><sub>p95 ingestion, <b>zero lost events</b> under 20% failures</sub></td>
-</tr>
-</table>
-
----
-
 ### 🛠️ Tech stack
 
 <div align="center">
