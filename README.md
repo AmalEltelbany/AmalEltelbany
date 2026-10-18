@@ -21,13 +21,28 @@
 
 ### 👩‍💻 About me
 
-- 💼 **Full-Stack Engineer at Fincart**: campaigns, courier integrations, Shopify apps, merchant dashboards
-- ⚙️ I love the hard backend parts: **batch jobs, queues, idempotency, indexing**
-- 🤖 Building an **AI customer-support platform** (WhatsApp + web widget) with LLM agents, RAG and evals
-- 🌍 Shipped **Arabic/English RTL** UIs portal-wide
+I'm a full-stack engineer who enjoys the parts of a system nobody sees until they break: **the jobs, queues and queries that have to work at 500k+ records**. Then I make the UI on top of them feel simple.
+
+- 💼 **Full-Stack Engineer @ Fincart**: I build campaigns, courier integrations, Shopify apps and merchant dashboards
+- ⚙️ **Backend at scale:** batch processing, idempotent retries, crash-safe jobs, MongoDB and PostgreSQL indexing
+- 🎨 **Frontend that ships:** React, a visual flow builder, a shared component library and Arabic/English **RTL** UIs
+- 🤖 **Learning in public:** building an AI customer-support agent (WhatsApp + web) with LLMs, RAG and evals
 - 🎯 **Open to** mid-level full-stack and backend roles, Cairo or remote
 
 <br clear="right"/>
+
+```ts
+const amal = {
+  role: "Full-Stack Software Engineer",
+  location: "Cairo, Egypt 🇪🇬",
+  currentlyAt: "Fincart",
+  backend: ["Node.js", "NestJS", "PostgreSQL", "MongoDB", "Redis", "BullMQ"],
+  frontend: ["React", "Next.js", "TypeScript", "Redux Toolkit", "TanStack Query"],
+  loves: ["idempotency", "clean architecture", "fast queries", "RTL done right"],
+  learning: ["LLM agents", "RAG", "evals"],
+  openTo: "mid-level full-stack & backend roles",
+};
+```
 
 ---
 
