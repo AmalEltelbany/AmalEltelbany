@@ -12,6 +12,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
 jobs:
   snake:
     runs-on: ubuntu-latest
